@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00c954f4b4385ce4fabfc61a2f79f5e5, type: 3}
+  m_Name: Idioma_Frances
+  m_EditorClassIdentifier: 
+  textino1: "[Nom] Martin du Cr\xE9tac\xE9"
+  textino2: "[Statistiques] Attaque : 5 Vitesse : -1000000 Intelligence : 0,2 R\xE9sistance
+    : [INNOMBABLE] Endurance : [INNOMBABLE]"
+  textino3: "[Comp\xE9tence] : Immobile La capacit\xE9 de Crustaceo Mart\xEDn lui
+    conf\xE8re une r\xE9sistance in\xE9gal\xE9e \xE0 tous les types  d'attaques,
+    mais ne bouge pas."
+  textino4: "[DESCRIPTION] Le crustac\xE9 Martin est connu like- S'il te pla\xEEt,
+    aide-moi Victor Ils me torturent avec FIFA Ils ne me laissent pas respirer. \xC0
+    cause Parmi eux, je ne pense qu'\xE0 la FIFA; Quand je mange, je pense \xE0 FIFA;
+    Si je ferme les yeux, Messi sort; Je ne peux pas dormir, parce que je ne fais
+    que r\xEAver- \xF1oo avec le triplet obtenu le Barca. Aidez-moi, s'il vous pla\xEEt.
+    AIDEZ-MOI ILS SONT ICI AIDE AAAA"

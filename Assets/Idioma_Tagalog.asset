@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00c954f4b4385ce4fabfc61a2f79f5e5, type: 3}
+  m_Name: Idioma_Tagalog
+  m_EditorClassIdentifier: 
+  textino1: '[Pangalan] Cretaceous Martin'
+  textino2: '[Mga Istatistika] Pag-atake: 5 Bilis: -1000000 Katalinuhan: 0.2 Paglaban:
+    [INCOUNTABLE] Stamina: [INCOUNTABLE]'
+  textino3: "[Kasanayan]: Hindi matitinag Ang kakayahan ni Crustaceo Mart\xEDn ay
+    nagbibigay sa kanya ng hindi nasusukat na pagtutol sa lahat ng uri  ng mga pag-atake,
+    ngunit hindi gumagalaw."
+  textino4: "[DESCRIPTION] Kilala ang Crustacean Martin like- Please help me Victor
+    Pinapahirapan nila ako sa FIFA Hindi nila ako hinayaang huminga. dahil sa guilt
+    Sa kanila ko lang iniisip ang tungkol sa FIFA; Kapag kumakain ako, iniisip ko
+    ang tungkol sa FIFA; Kung ipipikit ko ang aking mga mata, lumalabas si Messi;
+    Hindi ako makatulog kasi nanaginip lang ako... \xF1oo sa triplet na nakuha ang
+    Barca. Tulong po. HELP MEEE NANDITO SILA HELP AAAA"

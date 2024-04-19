@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00c954f4b4385ce4fabfc61a2f79f5e5, type: 3}
+  m_Name: Idioma_Castellano
+  m_EditorClassIdentifier: 
+  textino1: '[Nombre] Cretaceo Martin'
+  textino2: "[Estad\xEDsticas] Ataque: 5 Velocidad: -1000000 Inteligencia: 0.2 Resistencia:
+    [INCALCULABLE] Estamina: [ICALCULABLE]"
+  textino3: "[Habilidad]: Inamovible La habilidad de Crustaceo Mart\xEDn le otorga
+    una resistencia sin medida a todo tipo  de ataques, pero no se mueve."
+  textino4: "[DESCRIPCI\xD3N] Crustaceo Mart\xEDn se le conoce como- Por favor, ayudame
+    Victor me estan torturando con el fifa no me dejan respirar. Por culpa de ellos
+    solo pienso en el fifa; cuando como, pienso en el fifa; si cierro los ojos, me
+    sale Messi; No puedo dormir, porque solo sue\xF1o con el triplete que se sac\xF3
+    el Bar\xE7a. Ayuda, por favor. AYUDAMEEE ESTAN AQU\xCD AYUDA AAAA"
